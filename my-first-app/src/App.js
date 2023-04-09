@@ -1,4 +1,5 @@
 import { useState } from "react"; //handy link to understand useState => https://www.w3schools.com/react/react_usestate.asp
+import "./styles.css";
 
 const images = [
   "https://images.pexels.com/photos/8516750/pexels-photo-8516750.jpeg",
